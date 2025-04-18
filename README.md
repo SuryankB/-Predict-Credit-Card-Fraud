@@ -62,6 +62,10 @@ Due to class imbalance, **accuracy** is not a sufficient metric. Instead, the fo
 - ROC-AUC Curve
 - Confusion Matrix
 
+Output:
+![Screenshot 2025-04-18 144750](https://github.com/user-attachments/assets/e0b27c83-1b65-4e70-8fa2-84fde93c6061)
+
+
 ---
 
 
