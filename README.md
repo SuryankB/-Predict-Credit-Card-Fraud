@@ -16,18 +16,6 @@ The main goals of this project are:
 
 ---
 
-## 📦 Dataset Overview
-
-- **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- **Records:** 284,807 transactions
-- **Fraudulent Cases:** 492 (approx. 0.17% of data)
-- **Features:**
-  - V1 to V28: PCA-transformed numerical variables (confidential for security)
-  - Time: Seconds elapsed between transactions
-  - Amount: Transaction amount
-  - Class: Target variable (0 = legitimate, 1 = fraud)
-
----
 
 ## 🧰 Tools & Technologies
 
