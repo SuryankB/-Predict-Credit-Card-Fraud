@@ -1,10 +1,10 @@
-# 💳 Predict Credit Card Fraud Using Machine Learning
+#  Predict Credit Card Fraud Using Machine Learning
 
 This project is focused on identifying fraudulent credit card transactions using advanced machine learning techniques. With the growing number of online transactions, credit card fraud is becoming increasingly prevalent, making fraud detection systems crucial for financial institutions. This project uses a highly imbalanced dataset to develop and evaluate various classification models to effectively detect fraud with minimal false alarms.
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
 The main goals of this project are:
 
@@ -17,7 +17,7 @@ The main goals of this project are:
 ---
 
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Languages:** Python 3.x
 - **Libraries:**
@@ -29,9 +29,9 @@ The main goals of this project are:
 
 ---
 
-## 🔍 Workflow & Methodology
+##  Workflow & Methodology
 
-### 1️⃣ Data Preprocessing
+### 1️ Data Preprocessing
 - Normalization of `Time` and `Amount` features
 - Splitting dataset into training and testing sets (stratified)
 - Handling class imbalance using:
@@ -39,13 +39,13 @@ The main goals of this project are:
   - Undersampling
 - Visual inspection of fraud vs non-fraud patterns
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### 2️ Exploratory Data Analysis (EDA)
 - Class distribution plot
 - Correlation matrix
 - Feature importance visualization
 - Boxplots and density plots for fraud vs non-fraud
 
-### 3️⃣ Model Training
+### 3️ Model Training
 - Models implemented:
   - Logistic Regression
   - Decision Tree
@@ -54,7 +54,7 @@ The main goals of this project are:
 - Hyperparameter tuning using GridSearchCV
 - Pipeline integration for reproducibility
 
-### 4️⃣ Evaluation Metrics
+### 4️ Evaluation Metrics
 Due to class imbalance, **accuracy** is not a sufficient metric. Instead, the following are used:
 - Precision
 - Recall (most critical)
