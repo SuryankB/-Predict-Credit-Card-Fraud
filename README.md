@@ -11,7 +11,7 @@ This repository contains code and resources for a learning or practice project b
 - Learning experiments
 - Code versioning via Git
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python / C / C++ / Java (depending on files in the repo)
 - Arduino / ESP32 (if IoT-based)
